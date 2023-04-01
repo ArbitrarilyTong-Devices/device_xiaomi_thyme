@@ -68,10 +68,4 @@
     <string name="dc_dimming_enable_title">DC Dimming</string>
     <string name="dc_dimming_enable_summary">Reduces eye strain in low light conditions</string>
     <string name="dc_dimming_enable_summary_not_supported">DC Dimming is currently not supported by the kernel</string>
-
-    <!-- Kernel Warning -->
-    <string name="kernel_warning">System Warning!!!!!</string>
-    <string name="kernel_warning_info">Seems like your installed 3rd-party kernel.\n\nIt\'ll cause some issues like FOD flashing, DT2W not working and etc.\n\nWe recommend your restore Lynnrin-AOSP kernel by re-flashing ROM.\n\nNote: This dialog will show up when boot completed until your restored kernel.</string>
-    <string name="ok">OK</string>
- 
 </resources>

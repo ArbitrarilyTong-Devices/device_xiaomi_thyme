@@ -68,9 +68,4 @@
     <string name="dc_dimming_enable_title">DC 调光</string>
     <string name="dc_dimming_enable_summary">减少低亮度下眼睛的疲劳</string>
     <string name="dc_dimming_enable_summary_not_supported">当前内核目前不支持 DC 调光。</string>
-
-    <!-- Kernel Warning -->
-    <string name="kernel_warning">系统警告！！！！！</string>
-    <string name="kernel_warning_info">看上去您好像安装了第三方内核。\n\n这可能会导致一些问题，例如指纹解锁闪屏，双击唤醒失效等。\n\n我们建议您重新刷入完整包以恢复官方内核\n\n注：此弹窗会在每次重启后显示，直到您恢复原内核</string>
-    <string name="ok">OK</string>
 </resources>
