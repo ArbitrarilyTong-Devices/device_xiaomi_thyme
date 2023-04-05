@@ -475,7 +475,6 @@ vendor/lib64/libxmi_hdr_checker.so|a7da15eb99866f93c8bd89c3a21e3bbe73ae2923
 vendor/lib64/libxmi_high_dynamic_range.so|693d795ebb1ad2b521ffcee46b33e5f32536a125
 vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so|f0ee934ce0ceedaf3c429be7c644311e8343a6a8|8629ddc55445116852140a88c6d272683ac6bd49
 
-lib64/libcameraservice.so|69639b4d2eaa00e27388221299322803a4bf3e5b
 
 # MIUI Camera - from V13.0.10.0.SGACNXM
 lib/libcamera_algoup_jni.xiaomi.so|80637bcd5d262ba7caca30f2aa6b96cc2a53fd15
