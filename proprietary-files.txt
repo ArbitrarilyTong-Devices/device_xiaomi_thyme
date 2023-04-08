@@ -628,42 +628,6 @@ vendor/lib64/vendor.display.color@1.4.so
 vendor/lib64/vendor.display.color@1.5.so
 vendor/lib64/vendor.display.postproc@1.0.so
 
-# Dolby-Audio - from HIPHIC_RETCN_12_S3SC32.7-42-8
-etc/permissions/com.motorola.frameworks.core.addon.xml|3940e9a53d6adf12cb2e567c5f07cc3eafc3c4cd
-etc/permissions/moto-settings.xml|b6b1f14810bc3916a64677d1b19d4fefc20a51fe
--framework/com.motorola.frameworks.core.addon.jar|ead50e00603e22f88697cd2d1722e4ff9b9b1537
--framework/moto-checkin.jar|fc072988bc493317b366533fc90729557e32d8b9
--framework/moto-settings.jar|811408f49b1dd18d13716e3c7915ba59f9ecd56d
--framework/motoaudioeffectsdk.jar|dac6278dd2973c5758773672573189dc2de55fbf
--product/preinstall/MotoDolbyDax3/MotoDolbyDax3.apk:product/app/MotoDolbyDax3/MotoDolbyDax3.apk|42150d1e42b3f8f8fb0c66f15c03f162ebc71ce8
-system/etc/permissions/com.motorola.dolby.dolbyui.dax3.features.xml:product/etc/permissions/com.motorola.dolby.dolbyui.dax3.features.xml|16f619de55e97ab5f977127dc724bc0d06910195|44ac8fe454d012df02e5c9b7737a2be59bd08e10
-system/etc/sysconfig/hiddenapi-whitelist-com.motorola.dolby.dolbyui.xml:product/etc/sysconfig/hiddenapi-whitelist-com.motorola.dolby.dolbyui.xml|ab4600814879c626a410e607107829faceec9d2c
-system_ext/etc/permissions/com.dolby.daxservice.xml|cdd700ce16303ff2baa41eac44ed779f545db418
--system_ext/priv-app/MotorolaSettingsProvider/MotorolaSettingsProvider.apk|f094ed051f4f304e5f057f8945e8bdb2c08b0919
--system_ext/priv-app/daxService/daxService.apk|ff83b3254f43f8a4cc88cc1540cddb0fdcadbe1c
-vendor/bin/hw/vendor.dolby.hardware.dms@2.0-service|2b8168c102fa3cf9780d14aa4fc05b72dccff246
-vendor/etc/init/vendor.dolby.hardware.dms@2.0-service.rc|29296ebfe89b2697fec573be73cc3757fd97bed6
--vendor/etc/vintf/manifest/vendor.dolby.hardware.dms.xml|beeea0a28e03ac9d4e2412bf9c40dba30c0a6e39
-vendor/etc/media_codecs_dolby_audio.xml|a794eb15fc198d0285510260025cd99b53fa174f
-vendor/lib/soundfx/libswdap.so|1c3cddd0d7f51bd199cc7f87860d7282415f32b5
-vendor/lib/soundfx/libswgamedap.so|14a9301c65c0f84c1a90afc20faa5ae005613708
-vendor/lib/libdapparamstorage.so|c8929490a3955b353dd714a670035cc8df7e0d40
-vendor/lib/libdeccfg.so|5655f9540eb886677e28829a78be56d0a7fb8316
-vendor/lib/libstagefright_soft_ac4dec.so|de47568001639ad9f118b8fe02f119c8d5b7df60
-vendor/lib/libstagefright_soft_ddpdec.so|ce83ec1c56e2199c3b5ac3d0c28b3263b7871fb0
-vendor/lib/libstagefrightdolby.so|17e3d8b0397507e97055471802f8a03722e1129a
-vendor/lib/vendor.dolby.hardware.dms@2.0.so|142205a109508b54ac0cfc420f7c55195ce27552
-vendor/lib64/soundfx/libswdap.so|a4fc009f28f0572f493135ad6b5f5ddd692ef210
-vendor/lib64/soundfx/libswgamedap.so|3b81542a6bd40abbb1343f931a8c4a43fa200562
-vendor/lib64/libdapparamstorage.so|d29aa81e71282db98ebd66933be2a336f55df297
-vendor/lib64/libdeccfg.so|391b3246412b49f1a9ed59bd49be8c007a1e9d54
-vendor/lib64/libdlbdsservice.so|5c3fba69d6304cd7a49984de4c809bc2c496c8f8
-vendor/lib64/libstagefright_soft_ac4dec.so|4d3da7567c9513e4b7d746645a53b8c1a1d8765c
-vendor/lib64/libstagefright_soft_ddpdec.so|863a4254035049ee50d88d64ee0aeb547f0c2e94
-vendor/lib64/libstagefrightdolby.so|ce7b4a81e584d52d14200912ede431f74bd40d88
-vendor/lib64/vendor.dolby.hardware.dms@2.0-impl.so|ef7efef0a2641e5e01ef085dc7928b4440d51d36
-vendor/lib64/vendor.dolby.hardware.dms@2.0.so|c95f4666849a757995fb264e6885a17c26fcc99f
-
 # DPM
 framework/tcmclient.jar
 system_ext/bin/dpmd
