@@ -76,4 +76,15 @@
     <string name="refresh_standard">60Hz</string>
     <!--<string name="refresh_high">90Hz</string>-->
     <string name="refresh_extreme">120Hz</string>
+
+    <!-- Thermal Profiles -->
+    <string name="thermal_title">温控配置</string>
+    <string name="thermal_summary">调整每个应用程序的温控配置文件以获得理想性能</string>
+    <string name="thermal_default">默认</string>
+    <string name="thermal_benchmark">跑分</string>
+    <string name="thermal_browser">上网冲浪</string>
+    <string name="thermal_camera">拍照</string>
+    <string name="thermal_dialer">老人机（纯打电话的）</string>
+    <string name="thermal_gaming">游戏</string>
+    <string name="thermal_streaming">直播</string>
 </resources>
