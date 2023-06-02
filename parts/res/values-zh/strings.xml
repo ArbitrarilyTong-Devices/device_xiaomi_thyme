@@ -68,4 +68,12 @@
     <string name="dc_dimming_enable_title">DC 调光</string>
     <string name="dc_dimming_enable_summary">减少低亮度下眼睛的疲劳</string>
     <string name="dc_dimming_enable_summary_not_supported">当前内核目前不支持 DC 调光。</string>
+    
+    <!-- Per-app refresh rate -->
+    <string name="refresh_title">每个应用的刷新率</string>
+    <string name="refresh_summary">为特定应用程序设置最大刷新率</string>
+    <string name="refresh_default">默认</string>
+    <string name="refresh_standard">60Hz</string>
+    <!--<string name="refresh_high">90Hz</string>-->
+    <string name="refresh_extreme">120Hz</string>
 </resources>

@@ -68,4 +68,12 @@
     <string name="dc_dimming_enable_title">DC Dimming</string>
     <string name="dc_dimming_enable_summary">Reduces eye strain in low light conditions</string>
     <string name="dc_dimming_enable_summary_not_supported">DC Dimming is currently not supported by the kernel</string>
+
+    <!-- Per-app refresh rate -->
+    <string name="refresh_title">Per-app refresh rate</string>
+    <string name="refresh_summary">Set the maximum refresh rate for a specific application</string>
+    <string name="refresh_default">Default</string>
+    <string name="refresh_standard">60Hz</string>
+    <!--<string name="refresh_high">90Hz</string>-->
+    <string name="refresh_extreme">90Hz</string>
 </resources>
