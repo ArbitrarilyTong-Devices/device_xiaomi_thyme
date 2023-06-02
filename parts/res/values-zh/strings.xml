@@ -75,7 +75,7 @@
     <string name="refresh_default">默认</string>
     <string name="refresh_standard">60Hz</string>
     <string name="refresh_high">90Hz</string>
-    <!--<string name="refresh_extreme">120Hz</string>
+    <!--<string name="refresh_extreme">120Hz</string>-->
 
     <!-- Thermal Profiles -->
     <string name="thermal_title">温控配置</string>
