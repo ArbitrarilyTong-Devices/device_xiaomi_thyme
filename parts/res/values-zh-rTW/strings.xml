@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2015 The CyanogenMod Project
-                   2018-2019 The LineageOS Project
+     Copyright (C) 2018 The LineageOS Project
 
-     Licensed under the Apache License, Version 2.0 (the "License"
+     Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
 
@@ -15,11 +14,12 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
-    <SwitchPreference
-        android:key="dc_dimming_enable"
-        android:defaultValue="false"
-        android:icon="@drawable/ic_dcdimming"
-        android:title="@string/dc_dimming_enable_title"
-        android:summary="@string/dc_dimming_enable_summary" />
-</PreferenceScreen>
+<resources>
+    <!-- Ambient settings -->
+    <string name="ambient_enable">啟用環境顯示</string>
+
+    <!-- DC dimming settings -->
+    <string name="dc_dimming_enable_title">DC調光</string>
+    <string name="dc_dimming_enable_summary">降低弱光環境下對眼睛的損害</string>
+    <string name="dc_dimming_enable_summary_not_supported">當前內核不支持DC調光</string>
+</resources>
