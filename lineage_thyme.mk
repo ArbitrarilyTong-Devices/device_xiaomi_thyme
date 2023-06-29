@@ -30,3 +30,6 @@ PRODUCT_CHARACTERISTICS := nosdcard
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 BUILD_FINGERPRINT := Xiaomi/thyme/thyme:12/SKQ1.211006.001/V13.0.8.0.SGACNXM:user/release-keys
+
+# Add ArbitrarilyTong Makefile
+$(call inherit-product, ArbitrarilyTong/ArbitrarilyTong.mk)
